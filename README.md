@@ -27,8 +27,7 @@ The user uploads:
 * Job Description PDF
 
 Then clicks **Evaluate** to begin the screening process.
-
-<img src="assets/upload_interface.png" width="600" alt=Upload Interface">
+<img src="assets/upload_interface.png" width="600" alt="Upload Interface">
 
 
 ---
@@ -45,7 +44,7 @@ The system generates:
 * 💰 Salary Fit Insights
 
 ```md
-<img src="assets/screening_result.png" width="600" alt=Screening Result">
+<img src="assets/screening_result.png" width="600" alt="Screening Result">
 ```
 
 ---
