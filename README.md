@@ -29,7 +29,7 @@ The user uploads:
 Then clicks **Evaluate** to begin the screening process.
 
 ```md
-![Upload Interface](assets/upload_interface.png)
+<img src="assets/upload_interface.png" width="600" alt=Upload Interface">
 ```
 
 ---
@@ -46,7 +46,7 @@ The system generates:
 * 💰 Salary Fit Insights
 
 ```md
-![Screening Result](assets/screening_result.png)
+<img src="assets/screening_result.png" width="600" alt=Screening Result">
 ```
 
 ---
