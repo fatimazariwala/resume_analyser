@@ -28,9 +28,8 @@ The user uploads:
 
 Then clicks **Evaluate** to begin the screening process.
 
-```md
 <img src="assets/upload_interface.png" width="600" alt=Upload Interface">
-```
+
 
 ---
 
